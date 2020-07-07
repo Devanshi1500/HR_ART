@@ -8,7 +8,7 @@ A human resource information system (HRIS) is a software package developed to ai
 Nerds of a Feather
 
 # Team Members
-1)Mohammed Mehdi Patel\
-2)Hrim Gandhi\
-3)Devanshi Shah\
-4)Yash Agrawal
+1) <a href="https://github.com/mehdi1514">Mohammed Mehdi Patel</a>\
+2) <a href="https://github.com/hrimG">Hrim Gandhi</a>\
+3) <a href="https://github.com/Devanshi1500">Devanshi Shah</a>\
+4) Yash Agrawal
